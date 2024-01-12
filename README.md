@@ -5,6 +5,7 @@ O objetivo é catalogar como executar aplicativos em containers usando nodeJs co
  * NodeJs v20.9.0;
  * Nodemon v3.0.1
  * Browser-sync v2.29.3
+ * Composer v2.6.6
 
 ## Como usar
 OBS1: Testei seu uso no Debian 12, portanto deduzo que em outras distros linux funcione.
