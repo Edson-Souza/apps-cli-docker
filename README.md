@@ -22,7 +22,7 @@ docker build -t apps-cli-docker:20.9.0 .
 5. Executar o arquivo 'apps-cli-docker.sh';
 5. Recarrega o arquivo .bashrc:
 ```
-source .bashrc
+source ~/.bashrc
 ```
 ## Imagem Base
  * Node v20.9.0
